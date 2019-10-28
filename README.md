@@ -25,4 +25,4 @@ Another benefit is that it literally "defers" to an effect handler higher in sco
 
 ## More Things
 
-If you'd like to have a chat or discuss things more, or even request more explainer-type things, [@me on twitter](https://twitter.com/tejaskumar_).
+If you'd like to have a chat or discuss things more, or even request more explainer-type things, [@ me on twitter](https://twitter.com/tejaskumar_).
