@@ -2,7 +2,7 @@
 
 [See demo](https://tejasq.github.io/basically-react-suspense) | [See documented source code](index.js)
 
-⚠️ **Disclaimer:** I do not work on React core at all and this is a huge guess. I have not extensively looked at the source code of this feature and I don't really know what I'm doing, so please take this with a grain of salt and refer to the React core team for offical things. This repo here is my personal exploration to _learn_ these things _publicly_ (thanks, @swyx). I might have gotten it either partially or completely wrong. In this case, hopefully someone will gently correct me if things are not quite right and help me figure out the "truth"/the right way this works.
+> ⚠️ **Disclaimer:** I do not work on React core at all and this is a huge guess. I have not extensively looked at the source code of this feature and I don't really know what I'm doing, so please take this with a grain of salt and refer to the React core team for offical things. This repo here is my personal exploration to _learn_ these things _publicly_ (thanks, @swyx). I might have gotten it either partially or completely wrong. In this case, hopefully someone will gently correct me if things are not quite right and help me figure out the "truth"/the right way this works.
 
 ## The Code
 
