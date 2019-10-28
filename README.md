@@ -13,7 +13,7 @@ Take a look at [index.js](index.js) to see how (I think) it works. We have:
 - some "components" that [fetch things](index.js#L23-L51) using a resource
 - finally, [the "core"](index.js#L53-L93) that ties it all together.
 
-Each of these should be well documented and easy to grok. If they aren't, please [open an issue](/issues). Also, if I got something wrong, please please please let me know by [opening an issue](/issues).
+Each of these should be well documented and easy to grok. If they aren't, please [open an issue](https://github.com/TejasQ/basically-react-suspense/issues). Also, if I got something wrong, please please please let me know by [opening an issue](https://github.com/TejasQ/basically-react-suspense/issues).
 
 ## Algebraic Effects
 
